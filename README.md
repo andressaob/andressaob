@@ -12,3 +12,4 @@ Java | Python | C | HTML | SQL
 
 ✔️ Experiência em fabricação e manutenção de multimídia 
 
+<img src = "CLG379_Logo_Stacked_FA.png" width = "250pix" align = "right">
