@@ -8,4 +8,7 @@ Java | Python | C | HTML | SQL
 
 📫 [LinkedIn](www.linkedin.com/in/andressa-bernardes-0bb31422b)
 
+📧 andressabernardestech@gmail.com
+
 ✔️ Experiência em fabricação e manutenção de multimídia 
+
