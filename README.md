@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu GitHub! 👋🏻
 
+<img src = "CLG379_Logo_Stacked_FA.png" width = "250pix" align = "right">
+
 Java | Python | C | HTML | SQL
 
 🌱 Estudante de Sistemas de Informação na UFU
@@ -11,5 +13,3 @@ Java | Python | C | HTML | SQL
 📧 andressabernardestech@gmail.com
 
 ✔️ Experiência em fabricação e manutenção de multimídia 
-
-<img src = "CLG379_Logo_Stacked_FA.png" width = "250pix" align = "right">
