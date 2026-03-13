@@ -6,10 +6,10 @@ Java | Python | C | HTML | SQL
 
 🌱 Estudante de Sistemas de Informação na UFU
 
-👯 Procurando por uma vaga de estágio em desenvolvimento
+👯 Procurando por uma vaga de estágio em desenvolvimento, ia e/ou dados
 
 📫 [LinkedIn](www.linkedin.com/in/andressa-bernardes-0bb31422b)
 
 📧 andressabernardestech@gmail.com
 
-✔️ Experiência em fabricação e manutenção de multimídia 
+✔️ Experiência prática no suporte a infraestrutura e rotinas de tecnologia.
